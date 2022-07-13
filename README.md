@@ -1,2 +1,2 @@
 # hackosphere.in
-all in one business project under hackosphere.org
+all IN one business project under hackosphere.org
